@@ -80,7 +80,7 @@ const Login: React.FC = (props: any) => {
                     {isLogin ? "Create new account ?" : "Back to login"}
                 </span>
             </Typography>
-        </div>
+        </div >
     );
 };
 
